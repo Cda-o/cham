@@ -31,7 +31,7 @@ const messages = [
     "Tớ sẽ rất buồn...",
     "Tớ sẽ cực kỳ cực kỳ cực kỳ buồn...",
     "Thôi được rồi, tớ sẽ không hỏi nữa...",
-    "Đùa thôi, đồng ý đi mà! ❤️"
+    "Đùa thôi, đồng ý mau lên!!"
 
 ];
 let messageIndex = 0;
